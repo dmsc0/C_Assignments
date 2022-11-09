@@ -20,7 +20,8 @@ int main()
 
 	amount = copy_amount;
 
-	printf("\nIn order to pay %d, you'll need %d coins of 5, %d coins of 2 and %d coins of 1.", amount, coin_of_5, coin_of_2, coin_of_1);
+	printf("\nIn order to pay %d, you'll need %d coins of 5,\
+	%d coins of 2 and %d coins of 1.", amount, coin_of_5, coin_of_2, coin_of_1);
 
 	return 0;
 }
